@@ -2,7 +2,8 @@
 Week 2 
 GHDB-Based Footprinting & Zenmap Network Scanning
 W2-PM2 | W2-PM5 | W2-PM-FINAL
-+-----------------------------------------+
+
+
 This repository documents my Week 2 practical projects as part of my Cybersecurity and Ethical Hacking learning journey at Networkwalks.
 
 
